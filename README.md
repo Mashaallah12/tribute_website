@@ -1,1 +1,1 @@
-this is tribute website created useing html and css
+This tribute website is a simple, yet elegant one-page site dedicated to [Honoree's Name]. It is designed to highlight the significant achievements, life story, and impact of the honoree using a clean and responsive layout. The site is built using HTML for the structure and CSS for the styling.
